@@ -1,0 +1,78 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 30,
+        "Y": 217,
+        "ImageIndex": 5,
+        "ImagesCount": 3
+      },
+      "Ones": {
+        "X": 44,
+        "Y": 217,
+        "ImageIndex": 5,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 63,
+        "Y": 217,
+        "ImageIndex": 5,
+        "ImagesCount": 6
+      },
+      "Ones": {
+        "X": 78,
+        "Y": 217,
+        "ImageIndex": 5,
+        "ImagesCount": 10
+      }
+    }
+  },
+  "Status": {
+    "Bluetooth": {
+      "Coordinates": {
+        "X": 3,
+        "Y": 225,
+        "BoxWidth": 0,
+        "Alignment": 0,
+        "Order": 1
+      },
+      "ImageIndexOn": 15
+    },
+    "Battery": {
+      "BatteryConfig": {
+        "BoxWidth": 0,
+        "Alignment": 0,
+        "Order": 0
+      },
+      "Icon": {
+        "X": 109,
+        "Y": 224,
+        "ImageIndex": 16,
+        "ImagesCount": 5
+      }
+    }
+  },
+  "Other": {
+    "Animation": {
+      "AnimationImage": {
+        "X": 0,
+        "Y": 0,
+        "ImageIndex": 1,
+        "ImagesCount": 4,
+        "X3": 0
+      },
+      "Speed": 5,
+      "RepeatCount": 50,
+      "x2": 5
+    }
+  }
+}

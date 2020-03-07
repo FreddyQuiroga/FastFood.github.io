@@ -1,0 +1,72 @@
+Debug|Reading config...
+Debug|Reading referenced images from 'C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282'
+Trace|Loading resources for 2 'Background'
+Trace|Loading resources for 2.1 'ImageBasic'
+Trace|Loading image 0...
+Trace|File C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\0000.png doesn't exists.
+Trace|File C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\000.png doesn't exists.
+Trace|File C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\00.png doesn't exists.
+Trace|File C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\0.png doesn't exists.
+Fatal|System.IO.FileNotFoundException: File referenced by index 0 not found.
+   en Resources.ImageLoader.LoadResourceForNumber(String directory, Int64 index)
+   en WatchFace.Parser.Utils.ResourcesLoader.LoadImage(Int64 index)
+   en WatchFace.Parser.Utils.ResourcesLoader.Process[T](T serializable, String path)
+   en System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   en WatchFace.Parser.Utils.ResourcesLoader.Process[T](T serializable, String path)
+   en System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   en WatchFace.Parser.Utils.ResourcesLoader.Process[T](T serializable, String path)
+   en WatchFace.Program.WriteWatchFace(String outputDirectory, String outputFileName, String imagesDirectory, WatchFace watchFace)
+Fatal|System.IO.FileNotFoundException: No se pudo encontrar el archivo 'C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\sop_joker-40504-9e72f9c282_packed.bin'.
+Nombre de archivo: 'C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\sop_joker-40504-9e72f9c282_packed.bin'
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileInfo.get_Length()
+   en WatchFace.Program.PackWatchFace(String inputFileName)
+   en WatchFace.Program.Main(String[] args)
+Debug|Reading config...
+Debug|Reading referenced images from 'C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282'
+Trace|Loading resources for 2 'Background'
+Trace|Loading resources for 2.1 'ImageBasic'
+Trace|Loading image 0...
+Trace|File C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\0000.png doesn't exists.
+Trace|File C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\000.png doesn't exists.
+Trace|File C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\00.png doesn't exists.
+Trace|File C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\0.png doesn't exists.
+Fatal|System.IO.FileNotFoundException: File referenced by index 0 not found.
+   en Resources.ImageLoader.LoadResourceForNumber(String directory, Int64 index)
+   en WatchFace.Parser.Utils.ResourcesLoader.LoadImage(Int64 index)
+   en WatchFace.Parser.Utils.ResourcesLoader.Process[T](T serializable, String path)
+   en System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   en WatchFace.Parser.Utils.ResourcesLoader.Process[T](T serializable, String path)
+   en System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   en WatchFace.Parser.Utils.ResourcesLoader.Process[T](T serializable, String path)
+   en WatchFace.Program.WriteWatchFace(String outputDirectory, String outputFileName, String imagesDirectory, WatchFace watchFace)
+Fatal|System.IO.FileNotFoundException: No se pudo encontrar el archivo 'C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\sop_joker-40504-9e72f9c282_packed.bin'.
+Nombre de archivo: 'C:\Users\Freddy Quiroga\Downloads\sop_joker-40504-9e72f9c282\sop_joker-40504-9e72f9c282_packed.bin'
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileInfo.get_Length()
+   en WatchFace.Program.PackWatchFace(String inputFileName)
+   en WatchFace.Program.Main(String[] args)
+Debug|Reading config...
+Debug|Reading referenced images from 'C:\xampp\htdocs\Food\uploads\IconoMapa\Noe'
+Trace|Loading resources for 2 'Background'
+Trace|Loading resources for 2.1 'ImageBasic'
+Trace|Loading image 0...
+Trace|File C:\xampp\htdocs\Food\uploads\IconoMapa\Noe\0000.png doesn't exists.
+Trace|File C:\xampp\htdocs\Food\uploads\IconoMapa\Noe\000.png doesn't exists.
+Trace|File C:\xampp\htdocs\Food\uploads\IconoMapa\Noe\00.png doesn't exists.
+Trace|File C:\xampp\htdocs\Food\uploads\IconoMapa\Noe\0.png doesn't exists.
+Fatal|System.IO.FileNotFoundException: File referenced by index 0 not found.
+   en Resources.ImageLoader.LoadResourceForNumber(String directory, Int64 index)
+   en WatchFace.Parser.Utils.ResourcesLoader.LoadImage(Int64 index)
+   en WatchFace.Parser.Utils.ResourcesLoader.Process[T](T serializable, String path)
+   en System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   en WatchFace.Parser.Utils.ResourcesLoader.Process[T](T serializable, String path)
+   en System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   en WatchFace.Parser.Utils.ResourcesLoader.Process[T](T serializable, String path)
+   en WatchFace.Program.WriteWatchFace(String outputDirectory, String outputFileName, String imagesDirectory, WatchFace watchFace)
+Fatal|System.IO.FileNotFoundException: No se pudo encontrar el archivo 'C:\xampp\htdocs\Food\uploads\IconoMapa\Noe\sop_joker-40504-9e72f9c282_packed.bin'.
+Nombre de archivo: 'C:\xampp\htdocs\Food\uploads\IconoMapa\Noe\sop_joker-40504-9e72f9c282_packed.bin'
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileInfo.get_Length()
+   en WatchFace.Program.PackWatchFace(String inputFileName)
+   en WatchFace.Program.Main(String[] args)
